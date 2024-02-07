@@ -1,8 +1,8 @@
 <?php
-$servername ="php24-db-1";
-$username ="crud_app";
-$password ="charity4945";
-$dbname ="crud_app";
+$servername ="localhost";
+$username ="charity23000";
+$password ="wTiAl03s";
+$dbname ="wp_charity23000";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
